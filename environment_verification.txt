@@ -1,0 +1,15 @@
+/Users/wilson/ai_labs/ai_env/bin/python /Users/wilson/ai_labs/environment_test.py
+(base) wilson@Kelvins-MacBook-Pro ai_labs % /Users/wilson/ai_labs/ai_env/bin/python /Users/wilson/ai_labs/environment_test.py
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+Matplotlib is building the font cache; this may take a moment.
+✅ Python Version: 3.13.5
+✅ OS: Darwin 25.1.0
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (/Users/wilson/ai_labs/ai_env)
+==================================================
+(base) wilson@Kelvins-MacBook-Pro ai_labs % 
